@@ -1,3 +1,4 @@
+[IOMP_report.pdf](https://github.com/user-attachments/files/28508243/IOMP_report.pdf)
 # CropWise-AI
 
 
